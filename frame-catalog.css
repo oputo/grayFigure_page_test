@@ -1,0 +1,34 @@
+.menua,
+.top {
+  position: relative;
+}
+.menua {
+  height: 33px;
+  width: 101px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.top {
+  width: 786px;
+  height: 676px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 19px 31px 624px;
+  box-sizing: border-box;
+  letter-spacing: normal;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 450px) {
+  .menua {
+    font-size: 19px;
+  }
+}

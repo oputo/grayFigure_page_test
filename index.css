@@ -1,0 +1,23 @@
+.container {
+  box-sizing: border-box;
+  width: min(1200px, 100%);
+  padding: 0 10px;
+  margin: auto;
+font-size: 8px;
+}
+
+.js-base {
+  display: none;
+}
+
+.spreadsheets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.spreadsheets li {
+  width: 20%;
+  list-style-type: none;
+}
+

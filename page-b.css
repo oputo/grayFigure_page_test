@@ -1,0 +1,158 @@
+.menua1 {
+  position: absolute;
+  top: 19px;
+  left: 31px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 101px;
+  height: 33px;
+}
+.url-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 30.4%;
+  top: 0;
+  right: 69.6%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.date1,
+.file1 {
+  position: absolute;
+  height: 18.75%;
+  width: 32.07%;
+  top: 22.66%;
+  left: 35.15%;
+  display: inline-block;
+}
+.file1 {
+  height: 22.66%;
+  width: 64.85%;
+  top: 0;
+}
+.group-001,
+.url-icon2 {
+  position: absolute;
+  top: 70px;
+  left: 31px;
+  width: 421px;
+  height: 128px;
+}
+.url-icon2 {
+  height: 100%;
+  width: 30.4%;
+  top: 0;
+  right: 69.6%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.date2,
+.file2 {
+  position: absolute;
+  height: 18.75%;
+  width: 32.07%;
+  top: 22.66%;
+  left: 35.15%;
+  display: inline-block;
+}
+.file2 {
+  height: 22.66%;
+  width: 64.85%;
+  top: 0;
+}
+.group-0011,
+.url-icon3 {
+  position: absolute;
+  top: 216px;
+  left: 31px;
+  width: 421px;
+  height: 128px;
+}
+.url-icon3 {
+  height: 100%;
+  width: 30.4%;
+  top: 0;
+  right: 69.6%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.date3,
+.file3 {
+  position: absolute;
+  height: 18.75%;
+  width: 32.07%;
+  top: 22.66%;
+  left: 35.15%;
+  display: inline-block;
+}
+.file3 {
+  height: 22.66%;
+  width: 64.85%;
+  top: 0;
+}
+.group-0012,
+.url-icon4 {
+  position: absolute;
+  top: 362px;
+  left: 31px;
+  width: 421px;
+  height: 128px;
+}
+.url-icon4 {
+  height: 100%;
+  width: 30.4%;
+  top: 0;
+  right: 69.6%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.date4,
+.file4 {
+  position: absolute;
+  height: 18.75%;
+  width: 32.07%;
+  top: 22.66%;
+  left: 35.15%;
+  display: inline-block;
+}
+.file4 {
+  height: 22.66%;
+  width: 64.85%;
+  top: 0;
+}
+.group-0013 {
+  position: absolute;
+  top: 508px;
+  left: 31px;
+  width: 421px;
+  height: 128px;
+}
+.pageb {
+  width: 786px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 676px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
